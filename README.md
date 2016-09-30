@@ -1,7 +1,7 @@
 # wp3-semantic-parsing-Dutch
 Robust semantic parsing Dutch (state-of-the-art natural language processing pipeline) 
 
-- [Word Sense Disambiguation][https://github.com/cltl/svm_wsd]: system based on Support Vector Machines to assign senses and a system confidence score to words. 
+- [Word Sense Disambiguation](https://github.com/cltl/svm_wsd): system based on Support Vector Machines to assign senses and a system confidence score to words. 
 - [Entity recognition, classification][https://github.com/ixa-ehu/ixa-pipe-nerc] & [linking][https://github.com/ixa-ehu/ixa-pipe-ned]: identifies names in text, assigns a type such as person, location or organisation and tries to anchor it to its DBpedia resource (DBpedia [http://wiki.dbpedia.org] is a graph database that contains the structured information from Wikipedia) 
 - [Ontotagger][https://github.com/cltl/OntoTagger]: module that inserts ontological labels to Wordnet synsets associated with terms or directly to the lemmas of the term based on the external resources provided.
 - Semantic Role Labelling (event extraction): identifies and classifies the semantic arguments in a sentence, for example who was the perpetrator of an action and who was the subject, as well as locations which can be used to generate event descriptions 
