@@ -8,7 +8,7 @@ Robust semantic parsing Dutch (state-of-the-art natural language processing pipe
 - [Factuality/Attribution](https://github.com/cltl/multilingual_factuality): qualifies the certainty (certain/probable/possible) of an event, whether the event is confirmed or denied (pos/neg) and whether it is in the future (future/non-future)
 - [Opinion extraction](https://github.com/rubenIzquierdo/opinion_miner_deluxePP): detects opinion entities (holder, target and expression)
 - [Simple tagger](https://github.com/cltl/SimpleTagger): generic tagger that identifies concepts in text and links this to external references. It currently comes with a basic version to tag Historical Occupations (from [Hisco](https://socialhistory.org/en/projects/hisco-history-work)) and identify family relations for Dutch
-- [NLP2RDF crystallisation strategies](https://github.com/cltl/EventCoreference): resolves coreference of entities and events within and across documents to generate event descriptions based on the [Simple Event Model](http://semanticweb.cs.vu.nl/2009/11/sem/). 
+- [NLP2RDF crystallisation strategies](https://github.com/cltl/EventCoreference): resolves coreference of entities and events within and across documents to generate event descriptions based on the [Simple Event Model](http://semanticweb.cs.vu.nl/2009/11/sem/) and source perspectives according to [GRaSP](http://dx.doi.org/10.1016/j.knosys.2016.07.013). 
 
 We have other modules available, contact marieke.van.erp@vu.nl for more information. 
 
